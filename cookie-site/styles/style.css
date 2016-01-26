@@ -1,0 +1,13 @@
+body {margin: auto;
+  text-align: center;
+  font-family: arial;
+
+}
+h1 {
+  color: #954535;
+  height: 50px;
+  font-family: cursive;
+}
+ul, ol {
+  list-style-position: inside;
+}
